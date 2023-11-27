@@ -22,6 +22,7 @@ public class Author {
         }
         return sum;
     }
+    
     public String getName() {
         return name;
     }
