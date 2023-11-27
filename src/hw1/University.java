@@ -24,6 +24,7 @@ public class University {
         }
         return sum;
     }
+    
     public String getName() {
         return name;
     }
