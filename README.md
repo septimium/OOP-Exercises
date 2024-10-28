@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Java Object-Oriented Programming (OOP) exercises repository. This collection of exercises are actually solved homeworks from my 2nd year OOP Course. Each exercise is accompanied by a comprehensive solution to enhance your coding experience.
+Welcome to the Java Object-Oriented Programming (OOP) exercises repository. This collection of exercises are basically solved homeworks from my 2nd year OOP Course. Each exercise is accompanied by a comprehensive solution to enhance your coding experience.
 
 ## Repository Structure
 
